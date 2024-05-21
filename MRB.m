@@ -11,5 +11,5 @@ Izz = l^2 + (-l)^2 + l^2 + (-l)^2;
 Ic = [Ixx,0,0;0,Iyy,0;0,0,Izz];
 
 Mrb =[m*eye(3),zeros(3);zeros(3),Ic];
-
+test =0; 
 g = 9.81;
