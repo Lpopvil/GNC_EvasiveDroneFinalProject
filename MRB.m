@@ -1,5 +1,5 @@
-m =4;
-l =1;
+m =3;
+l =860*10^(-3);
 
 %If the motors are 1m distance from the center we have:
 %x_i=y_i=l, z_i=0 
